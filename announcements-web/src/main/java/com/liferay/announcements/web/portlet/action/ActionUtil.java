@@ -27,6 +27,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * @author Raymond Augé
  */
+//LPEDELTA-11
 public class ActionUtil {
 
 	public static void getEntry(HttpServletRequest request) throws Exception {
